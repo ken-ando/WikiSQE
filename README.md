@@ -176,10 +176,12 @@ https://huggingface.co/datasets/ando55/WikiSQE
     title = "WikiSQE: A Large-Scale Dataset for Sentence Quality Estimation in Wikipedia",
     author = "Ando, Kenichiro  and
       Sekine, Satoshi  and
-      Mamoru, Komachi",
-    booktitle = "The 38th Annual AAAI Conference on Artificial Intelligence",
-    month = feb,
-    year = "2024",
+      Komachi, Mamoru",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    volume= "38",
+    number= "16",
+    pages= "17656--17663",
+    year= "2024",
     address = "Vancouver, Canada",
     publisher = "Association for the Advancement of Artificial Intelligence",
 }
